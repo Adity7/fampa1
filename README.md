@@ -53,3 +53,4 @@ Create your models for each App.
 Create and apply a new migration. (Do this whenever you make any change to a model).
 
 
+![Screenshot from 2022-08-30 20-57-35](https://user-images.githubusercontent.com/58148990/187477910-2692ab98-bb26-4778-8caf-c61e9a189f3d.png)
