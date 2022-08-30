@@ -11,10 +11,10 @@ The following is a basic workflow that you can use as a quick reference for deve
 Setup
 
 Within a new directory, create and activate a virtualenv.
-Install Django.
-Create your project: django-admin.py startproject
-Create a new app: python manage.py startapp
-Add your app to the INSTALLED_APPS tuple.
+Install Django.//
+Create your project: django-admin.py startproject//
+Create a new app: python manage.py startapp//
+Add your app to the INSTALLED_APPS tuple.//
 Add Basic URLs and Views
 Map your Project’s urls.py file to the new app.
 In your App directory, create a urls.py file to define your App’s URLs.
@@ -22,8 +22,8 @@ Add views, associated with the URLs, in your App’s views.py; make sure they re
 
 Templates and Static Files
 
-Create a templates and static directory within your project root.
-Update settings.py to include the paths to your templates.
+Create a templates and static directory within your project root.//
+Update settings.py to include the paths to your templates.//
 Add a template (HTML file) to the templates directory. Within that file, you can include the static file with - {% load static %}
 Update the views.py file as necessary.
 Models and Databases
