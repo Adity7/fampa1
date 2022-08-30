@@ -1,0 +1,7 @@
+SETUP
+
+Within a new directory, create and activate a virtualenv.
+Install Django.
+Create your project: django-admin.py startproject
+Create a new app: python manage.py startapp
+Add your app to the INSTALLED_APPS tuple.
