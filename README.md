@@ -8,7 +8,7 @@ This project is completely based on Django.
 
 The following is a basic workflow that you can use as a quick reference for developing a Django Project.
 
-Setup
+#Setup
 
 Within a new directory, create and activate a virtualenv.
 
@@ -28,7 +28,7 @@ In your App directory, create a urls.py file to define your App’s URLs.
 
 Add views, associated with the URLs, in your App’s views.py; make sure they return a HttpResponse object. Depending on the situation, you may also need to query the model (database) to get the required data back requested by the end user.
 
-Templates and Static Files
+# Templates and Static Files
 
 Create a templates and static directory within your project root.
 
@@ -52,7 +52,7 @@ Create your models for each App.
 
 Create and apply a new migration. (Do this whenever you make any change to a model).
 
-Forms
+# Forms
 
 Create a forms.py file at the App to define form-related classes; define your ModelForm classes here.
 
