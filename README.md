@@ -52,12 +52,4 @@ Create your models for each App.
 
 Create and apply a new migration. (Do this whenever you make any change to a model).
 
-# Forms
 
-Create a forms.py file at the App to define form-related classes; define your ModelForm classes here.
-
-Add or update a view for handling the form logic - e.g., displaying the form, saving the form data, alerting the user about validation errors, etc.
-
-Add or update a template to display the form.
-
-Add a urlpattern in the App’s urls.py file for the new view.
