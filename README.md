@@ -8,7 +8,7 @@ This project is completely based on Django.
 
 The following is a basic workflow that you can use as a quick reference for developing a Django Project.
 
-#Setup
+# Setup
 
 Within a new directory, create and activate a virtualenv.
 
